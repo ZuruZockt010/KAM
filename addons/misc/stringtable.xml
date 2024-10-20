@@ -1496,6 +1496,7 @@
             <French>Utiliser la trousse chirurgicale (Corps complet)</French>
             <Portuguese>Utilizar kit cirúrgico (corpo inteiro)</Portuguese>
             <Dutch>Gebruik chirurgische kit (volledig lichaam)</Dutch>
+            <German>Chirurgisches Kit verwenden (Ganzkörper)</German>
         </Key>
         <Key ID="STR_KAT_Misc_SETTING_EnableStitchFullBody">
             <English>Enable Full Body Stitching</English>
@@ -1504,6 +1505,7 @@
             <Japanese>全身縫合を有効化</Japanese>
             <French>Activer la suture complète du corps</French>
             <Dutch>Schakel hechten van het volledige lichaam in</Dutch>
+            <German>Aktivieren Sie Ganzkörpernaht</German>
         </Key>
         <Key ID="STR_KAT_Misc_SETTING_EnableStitchFullBody_DESC">
             <English>Adds a full-body stitching option alongside the individual body part stitching, using ACE's established settings and values for consistency</English>
@@ -1512,6 +1514,7 @@
             <Japanese>身体部位毎に縫合するアクションに加え、ACEの設定値と同様の動きを保ったままの、全身を一括で縫合するオプションを追加します。</Japanese>
             <French>Ajoute une option de suture complète du corps à côté de la suture de chaque partie du corps, en utilisant les paramètres et les valeurs établis par ACE pour plus de cohérence</French>
             <Dutch>Voegt een hechtingsactie toe voor het gehele lichaam, naast de standaard individuele hechtingsopties, die de waarden en instellingen van ACE gebruikt voor consistentie</Dutch>
+            <German>Fügt neben dem Nähen einzelner Körperteile eine Ganzkörper-Nähoption hinzu, wobei die von ACE festgelegten Einstellungen und Werte für Konsistenz verwendet werden</German>
         </Key>
     </Package>
 </Project>
